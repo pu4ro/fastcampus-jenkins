@@ -41,4 +41,4 @@ configure<org.jlleitschuh.gradle.ktlint.KtlintExtension> {
      reporters {
          reporter(ReporterType.CHECKSTYLE)
      }
- }
+}
